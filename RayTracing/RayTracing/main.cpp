@@ -8,6 +8,7 @@
 // ============================================================================
 int main(int argc, char* argv[])
 {
+	// test
 	CApp app;
 	return app.OnExecute();
 }
